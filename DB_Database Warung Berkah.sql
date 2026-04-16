@@ -1,5 +1,5 @@
-CREATE DATABASE DB_Database Warung Berkah;
-USE DB_Database Warung Berkah;
+CREATE DATABASE DB_Database_Warung_Berkah;
+USE DB_Database_Warung_Berkah;
 
 CREATE TABLE Supplier (
 	id_supplier INT PRIMARY KEY IDENTITY,
