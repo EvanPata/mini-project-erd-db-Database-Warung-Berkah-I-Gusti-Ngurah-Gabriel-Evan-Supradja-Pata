@@ -1,3 +1,6 @@
+CREATE DATABASE DB_Database Warung Berkah;
+USE DB_Database Warung Berkah;
+
 CREATE TABLE Supplier (
 	id_supplier INT PRIMARY KEY IDENTITY,
 	nama_supplier VARCHAR(100),
